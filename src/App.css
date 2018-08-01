@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.a-container{
+  width: 300px;
+  height: 400px;
+  border: 1px solid #c9394a;
+  float: left;
+  margin: 30px;
+}
+.header{
+  height: 40px;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  background: #c9394a;
+}
